@@ -1,0 +1,6 @@
+## Requirements
+- Python 3.x
+- requests library
+- pandas library
+
+Install the required libraries using pip.
